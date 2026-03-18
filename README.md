@@ -5,3 +5,5 @@
 ## **Week 3:** Jacobi, Gauss-Seidel, Successive Over-Relaxation ([code](hw3/hw3_code.ipynb))
 ## **Week 4:** Eigenvalues & Eigenvectors, Power/Inverse Power, PageRank ([code](hw4/hw4_code.ipynb))
 ## **Week 5:** Singular Value Decomposition, Image Compression ([code](hw5/hw5_code.ipynb))
+## **Week 6:** Least Squares Solutions ([code](hw5/hw5_code.ipynb))
+## **Week 7:** Unconstrained Optimization and Optimality Conditions
